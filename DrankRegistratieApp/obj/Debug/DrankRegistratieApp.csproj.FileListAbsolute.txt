@@ -1,0 +1,16 @@
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\bin\Debug\DrankRegistratieApp.exe.config
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\bin\Debug\DrankRegistratieApp.exe
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\bin\Debug\DrankRegistratieApp.pdb
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankRegistratieApp.csprojAssemblyReference.cache
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\MainWindow.g.cs
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\App.g.cs
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankRegistratieApp_MarkupCompile.cache
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankRegistratieApp_MarkupCompile.lref
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\MainWindow.baml
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankRegistratieApp.g.resources
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankRegistratieApp.Properties.Resources.resources
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankRegistratieApp.csproj.GenerateResource.cache
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankRegistratieApp.exe
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankRegistratieApp.pdb
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankControl.g.cs
+C:\Users\hendr\OneDrive\Bureaublad\Visual Studio Projects\DrankRegistratieApp\DrankRegistratieApp\obj\Debug\DrankControl.baml
